@@ -8,10 +8,10 @@ M2505 Features
 
 The M2505 has the following properties: 
 
-*Impulse:	7450Ns
-*F_avg: 	2491N
-*m_prop: 	3.34kg
-*m_tot:		6.25kg
+* Impulse:	7450Ns
+* F_avg: 	2491N
+* m_prop: 	3.34kg
+* m_tot:	6.25kg
 
 BlueJay Features
 ------
@@ -19,9 +19,9 @@ BlueJay Features
 From the varPo.m script we find that at a low chamber pressure of 10bar
 we can produce a feasible rocket (i.e. TWR>5) with:
 
-*Impulse: 	7450Ns
-*F_avg:		1kN
-*m_prop:	5.21kg
+* Impulse: 	7450Ns
+* F_avg:	1kN
+* m_prop:	5.21kg
 
 This assumes that the combustion gases have properties with values typical of those seen
 in the exit of gas turbine combustors.
@@ -29,7 +29,7 @@ in the exit of gas turbine combustors.
 The mass fraction of this vehcicle is ~25%
 
 This requires:
-*m_dot:		0.6989kgs^-1
+* m_dot:	0.6989kgs^-1
 
 Assuming a stoichiometric mixture:
 
